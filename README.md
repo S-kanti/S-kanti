@@ -1,2 +1,12 @@
-- 👋 Hi,I'm Sarah,
-- I do web Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check my twitter at https://twitter.com/KantiSarah
+### Hi there 👋, am Kanti Sarah
+![](https://media.licdn.com/dms/image/D4D16AQH-gNZVlTBlbA/profile-displaybackgroundimage-shrink_350_1400/0/1713644662216?e=1720656000&v=beta&t=-qlIKH1IMElYBRfH_X4a8cA6Z_XZbgAPJ-krPlRgr7E)
+
+I do web Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+
+Skills:  REACT / JS / HTML / CSS/Node.js
+
+- 📫 How to reach me: https://twitter.com/KantiSarah 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sarah-kanti-46638a11a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KantiSarah)  
+
