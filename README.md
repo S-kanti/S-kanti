@@ -8,5 +8,9 @@ Skills:  REACT / JS / HTML / CSS/Node.js
 - 📫 How to reach me: https://twitter.com/KantiSarah 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sarah-kanti-46638a11a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KantiSarah)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/S-kanti)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-kanti&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=S-kanti)  
 
